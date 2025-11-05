@@ -1,7 +1,9 @@
+---
 layout: page
-title: Privacy Policy for Webhook Notifier
+title: Privacy Policy for Atlas 2 BC
 permalink: /privacy-policy/
 Effective Date: [Date you publish the extension]
+---
 
 Thank you for using Webhook Notifier (the "Extension"). This Privacy Policy is here to help you understand what data our Extension collects, why it collects it, and what it does with that data.
 
